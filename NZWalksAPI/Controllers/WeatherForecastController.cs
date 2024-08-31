@@ -12,6 +12,7 @@ namespace NZWalksAPI.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        // This is the weather analitic code and the implementation is down there.
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
