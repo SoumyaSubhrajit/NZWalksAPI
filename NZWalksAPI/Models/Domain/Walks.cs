@@ -19,5 +19,7 @@
         public Difficulty Difficulty { get; set; }
 
         public Region Region { get; set; }
+        
+        // Checking Github is working or not.
     }
 }
