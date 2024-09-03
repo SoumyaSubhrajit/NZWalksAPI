@@ -18,7 +18,7 @@ namespace NZWalksAPI.Controllers
         {
             _logger = logger;
         }
-        // Adding something in the 
+        // Adding something
 
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
