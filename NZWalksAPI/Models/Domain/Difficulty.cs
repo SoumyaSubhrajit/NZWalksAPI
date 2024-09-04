@@ -5,6 +5,6 @@
         public Guid Id { get; set; }
 
         public string Name { get; set; }
-        // This is the thing and there is no way we have no thin
+        // This is the thing and there is no way we have no
     }
 }
