@@ -5,6 +5,6 @@
         public Guid Id { get; set; }
 
         public string Name { get; set; }
-        // This is the thing and there is n
+        // This is the thing and there is
     }
 }
