@@ -19,6 +19,7 @@ namespace NZWalksAPI.Data
 
         public DbSet<Walks> Walks { get; set; }
 
-        // Here we do the Db migration.
+        // Here we do the Db migration..
+        // checking the github is working properly or not.
     }
 }
